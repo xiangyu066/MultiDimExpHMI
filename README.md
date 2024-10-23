@@ -11,4 +11,4 @@
 - Micromanager
 
 \
-<img src="https://github.com/xiangyu066/MultiDimExpHMI/blob/main/gui_screenshot.jpg" width="50%">
+<img src="https://github.com/xiangyu066/MultiDimExpHMI/blob/main/gui_screenshot.jpg" width="70%">
